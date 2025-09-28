@@ -48,6 +48,6 @@ These styles apply only to the elements that have the specific class attribute a
 
 2. **`.highlight`**: This class gives the element a **yellow background color** and a **solid orange border** that is **2 pixels thick**.
 
-3. **`.fancy-font`**: This class sets a **monospaced font family** (like 'Courier New') and makes the text **1.1em** larger than the surrounding font.
+3. **`.fancy-font`**: This class sets a **monospaced font family** (like 'Courier New') and makes the text as size of **18 pixels**.
 
 Good luck!
