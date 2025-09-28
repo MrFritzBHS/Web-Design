@@ -6,7 +6,7 @@ Your goal is to use **CSS tag selectors** and **CSS class selectors** to style t
 
 ## Final version
 
-![final_pic]()
+![final_pic](https://github.com/MrFritzBHS/Web-Design/blob/main/Unit-03-CSS-Styling-Websites/3.3-Match-My-CSS/final.png?raw=true)
 
 ## 🛠️ Instructions
 
